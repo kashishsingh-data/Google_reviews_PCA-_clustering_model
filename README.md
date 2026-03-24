@@ -1,4 +1,5 @@
-# Google_reviews_PCA-_clustering_model
+# Google_reviews_PCA_clustering_model
+
 This clustering helps businesses identify 4 customer segments:
  1️⃣ Food enthusiasts
  2️⃣ Travel tourists
